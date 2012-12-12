@@ -4,4 +4,5 @@ testConflict
 testConflict2
 new line2
 new line 3
+new line 4
 
