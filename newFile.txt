@@ -1,7 +1,4 @@
 khgkgguhoh
 Edit edit edit
-
-
-Edit edit edit
-
 adiitional line
+new line 1 from Terminal
